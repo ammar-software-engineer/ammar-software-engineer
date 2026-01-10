@@ -36,11 +36,14 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammar-software-developer&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammar-software-developer&theme=radical" alt="GitHub Streak">
-</p>
+## 📊 Working
+
+- 💻 Building scalable **full-stack web applications** with **MERN stack**  
+- 📱 Developing **mobile apps** using **React Native**  
+- 🤖 Creating **AI solutions** including **agentic AI, AI prompting, and smart AI agents**  
+- 🐍 Implementing **Python-based Machine Learning projects**  
+- 🔗 Exploring **LangChain, CrewAI, and OpenAI Agent SDK** for advanced AI integration  
+- 🚀 Continuously improving **UI/UX design**, writing **clean code**, and delivering **high-quality solutions**
 
 ---
 
