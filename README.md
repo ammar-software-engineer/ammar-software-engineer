@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ammar-software-developer/ammar-software-developer/main/assets/snake-effect.gif" alt="Snake effect" />
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/snake-effect.gif" alt="Snake effect" />
 </p>
 
 <h1 align="center">Hi, I'm Ammar 👋</h1>
@@ -12,31 +12,34 @@
 ## 🛠️ My Skills
 
 ### Frontend
-![React](https://raw.githubusercontent.com/ammar-software-developer/ammar-software-developer/main/assets/react.png)
-![React Native](https://raw.githubusercontent.com/ammar-software-developer/ammar-software-developer/main/assets/react-native.png)
-![Next.js](https://raw.githubusercontent.com/ammar-software-developer/ammar-software-developer/main/assets/nextjs.png)
-![JavaScript](https://raw.githubusercontent.com/ammar-software-developer/ammar-software-developer/main/assets/javascript.png)
-![HTML5](https://raw.githubusercontent.com/ammar-software-developer/ammar-software-developer/main/assets/html.png)
-![CSS3](https://raw.githubusercontent.com/ammar-software-developer/ammar-software-developer/main/assets/css.png)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
-![Node.js](https://raw.githubusercontent.com/ammar-software-developer/ammar-software-developer/main/assets/nodejs.png)
-![Express.js](https://raw.githubusercontent.com/ammar-software-developer/ammar-software-developer/main/assets/express.png)
-![MongoDB](https://raw.githubusercontent.com/ammar-software-developer/ammar-software-developer/main/assets/mongodb.png)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### AI / ML / Agents
-![Python](https://raw.githubusercontent.com/ammar-software-developer/ammar-software-developer/main/assets/python.png)
-![Machine Learning](https://raw.githubusercontent.com/ammar-software-developer/ammar-software-developer/main/assets/ml.png)
-![LangChain](https://raw.githubusercontent.com/ammar-software-developer/ammar-software-developer/main/assets/langchain.png)
-![CrewAI](https://raw.githubusercontent.com/ammar-software-developer/ammar-software-developer/main/assets/crewai.png)
-![OpenAI Agent SDK](https://raw.githubusercontent.com/ammar-software-developer/ammar-software-developer/main/assets/openai.png)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-00A1FF?style=for-the-badge)
+![OpenAI Agent SDK](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammar-software-developer&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammar-software-developer&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ammar-software-developer&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammar-software-developer&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
@@ -52,6 +55,5 @@ I am passionate about **emerging technologies**, **clean, maintainable code**, a
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: ammarahmer043@gmail.com  
-- 🐱 GitHub: [@ammar-software-developer](https://github.com/ammar-software-developer)  
-
+- ✉️ Email: ahmerammar043@gmail.com
+- 🐱 GitHub: [@yourusername](https://github.com/ammar-software-developer)  
